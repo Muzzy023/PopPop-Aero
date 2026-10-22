@@ -1,0 +1,17 @@
+{
+  "name": "PopPop Aero",
+  "short_name": "PopPop Aero",
+  "description": "Frutiger Aero temalı kabarcık patlatma oyunu — seviyeler, günlük görevler ve koleksiyon dostlarıyla.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#4fa8e0",
+  "theme_color": "#4fa8e0",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
